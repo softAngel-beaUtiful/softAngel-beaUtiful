@@ -1,7 +1,7 @@
 ### 👋 Hi, I’m @softAngel-beaUtiful 👋
 
-- 👀 I have experience in mobile-ready WEB, BLOCKCHAIN, ML, DEEP LEARNING and AI.
-- 🔭 I’m currently working on Wax and Solana.
+- 👀 I have experience in BLOCKCHAIN, Financial Engineering, Data Science, Full Stack and cross platform WEB,.
+- 🔭 I’m currently working on Blockchain and Trading System.
 - 🌱 I pursue high IQ and integrity to be smart before coding itself.
 
 <!---
